@@ -1,4 +1,4 @@
-﻿# Save
+﻿# MultiCopy
 Макрос для Copy & Paste выделенных компонентов сборки SolidWorks.
 
 ### Использование
