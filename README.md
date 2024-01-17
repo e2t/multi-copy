@@ -1,4 +1,6 @@
-﻿# MultiCopy
+This project has been moved to https://codeberg.org/e2t/multi-copy
+ 
+ # MultiCopy
 Макрос для Copy & Paste выделенных компонентов сборки SolidWorks.
 
 ### Использование
